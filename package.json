@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/antoinebartholomew/ClassWorkActivity16_HotResturant2/issues"
   },
-  "homepage": "https://github.com/antoinebartholomew/ClassWorkActivity16_HotResturant2#readme"
+  "homepage": "https://github.com/antoinebartholomew/ClassWorkActivity16_HotResturant2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
 }
